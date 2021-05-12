@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreWebApiDemo", "NetCoreWebApiDemo\NetCoreWebApiDemo.csproj", "{669236AB-1B3A-4393-A76C-D43A276DB4AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XunitDemo", "XunitDemo\XunitDemo.csproj", "{3A695075-CE5B-4C34-9CBD-18B734B4138F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{669236AB-1B3A-4393-A76C-D43A276DB4AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{669236AB-1B3A-4393-A76C-D43A276DB4AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{669236AB-1B3A-4393-A76C-D43A276DB4AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{669236AB-1B3A-4393-A76C-D43A276DB4AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A695075-CE5B-4C34-9CBD-18B734B4138F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A695075-CE5B-4C34-9CBD-18B734B4138F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A695075-CE5B-4C34-9CBD-18B734B4138F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A695075-CE5B-4C34-9CBD-18B734B4138F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {020302D4-8E3D-4D92-A908-7F4EE05BFD16}
+	EndGlobalSection
+EndGlobal
