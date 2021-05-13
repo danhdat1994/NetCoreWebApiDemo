@@ -25,5 +25,10 @@ namespace NetCoreWebApiDemo
         {
             return a - b;
         }
+
+        public int Double(int a)
+        {
+            return a * 2;
+        }
     }
 }
