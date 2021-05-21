@@ -21,5 +21,11 @@ namespace XunitDemo
 
             Assert.Equal(a + b, result);
         }
+
+        [Fact]
+        public void test()
+        {
+            Assert.Equal(1, 2);
+        }
     }
 }
